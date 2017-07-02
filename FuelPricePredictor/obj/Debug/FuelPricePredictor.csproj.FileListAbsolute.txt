@@ -1,0 +1,91 @@
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe.config
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.pdb
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csprojResolveAssemblyReference.cache
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Properties.Resources.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csproj.GenerateResource.Cache
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.exe
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.pdb
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form2.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form1.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\IronPython.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\IronPython.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\User\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe.config
+C:\Users\User\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.exe
+C:\Users\User\Google Drive\Uni\158222\Assignments\Project 4\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.pdb
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe.config
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.exe
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.pdb
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.pdb
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\IronPython.xml
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.xml
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form1.resources
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form2.resources
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Properties.Resources.resources
+C:\Users\User\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csproj.GenerateResource.Cache
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe.config
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.exe
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.pdb
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.exe
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\PetrolPricePredictor.pdb
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\IronPython.dll
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\IronPython.xml
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csprojResolveAssemblyReference.cache
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form1.resources
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Form2.resources
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\PetrolPricePredictor.Properties.Resources.resources
+C:\Users\Cai\Desktop\PetrolPricePredictor\PetrolPricePredictor\obj\Debug\FuelPricePredictor.csproj.GenerateResource.Cache
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\PetrolPricePredictor.exe.config
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.exe
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.pdb
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\PetrolPricePredictor.exe
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\PetrolPricePredictor.pdb
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\IronPython.dll
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\IronPython.xml
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.csprojResolveAssemblyReference.cache
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.Form1.resources
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.Form2.resources
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.Properties.Resources.resources
+C:\Users\Cai\Desktop\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.csproj.GenerateResource.Cache
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\FuelPricePredictor.exe.config
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\FuelPricePredictor.exe
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\FuelPricePredictor.pdb
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\IronPython.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Dynamic.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\IronPython.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Dynamic.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.csprojResolveAssemblyReference.cache
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.Form1.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\PetrolPricePredictor.Form2.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.Properties.Resources.resources
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.csproj.GenerateResource.Cache
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.exe
+E:\Google Drive\Uni\158222\Assignments\Project 4\Most Stuff\FuelPricePredictor\FuelPricePredictor\obj\Debug\FuelPricePredictor.pdb
